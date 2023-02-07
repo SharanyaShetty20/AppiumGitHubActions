@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="123428" started-at="2023-02-06T13:17:27Z" finished-at="2023-02-06T13:19:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="123428" started-at="2023-02-06T13:17:27Z" finished-at="2023-02-06T13:19:30Z">
+      <class name="tests.ToDo_Android">
+        <test-method status="PASS" signature="test_add_task(java.lang.String, java.lang.String)[pri:0, instance:tests.ToDo_Android@22a637e7]" name="test_add_task" duration-ms="31621" started-at="2023-02-06T13:17:27Z" data-provider="tasks data" finished-at="2023-02-06T13:17:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[First Appium Course]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Need to finish my course]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_add_task -->
+        <test-method status="PASS" signature="test_add_task(java.lang.String, java.lang.String)[pri:0, instance:tests.ToDo_Android@22a637e7]" name="test_add_task" duration-ms="24414" started-at="2023-02-06T13:17:59Z" data-provider="tasks data" finished-at="2023-02-06T13:18:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Second Appium learning]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Need to finish my learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_add_task -->
+        <test-method status="PASS" signature="test_add_task2(java.lang.String, java.lang.String)[pri:0, instance:tests.ToDo_Android@22a637e7]" name="test_add_task2" duration-ms="30404" started-at="2023-02-06T13:18:23Z" data-provider="tasks data" finished-at="2023-02-06T13:18:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[First Appium Course]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Need to finish my course]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_add_task2 -->
+        <test-method status="PASS" signature="test_add_task2(java.lang.String, java.lang.String)[pri:0, instance:tests.ToDo_Android@22a637e7]" name="test_add_task2" duration-ms="36894" started-at="2023-02-06T13:18:53Z" data-provider="tasks data" finished-at="2023-02-06T13:19:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Second Appium learning]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Need to finish my learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_add_task2 -->
+      </class> <!-- tests.ToDo_Android -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
